@@ -25,3 +25,8 @@ Adding line to stash
 ----- creating conflict from my-joke -------------
 ----- creating conflict from my-joke -------------
 ----- creating conflict from my-joke -------------
+
+----- creating conflict from feat-joke -------------
+
+---- resolved conflict all good can push -----
+
