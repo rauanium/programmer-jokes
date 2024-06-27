@@ -14,7 +14,7 @@ Adding line from feat-joke
 
 adding new line to pull
 
-adding new line second time to pull
+----- creating conflict -------------
 
 adding new line third time time to pull and update my my-joke branch
 
