@@ -15,3 +15,6 @@ adding new line to pull
 adding new line second time to pull
 
 adding new line third time time to pull and update my my-joke branch
+
+Adding line to stash
+
