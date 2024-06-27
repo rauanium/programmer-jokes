@@ -20,3 +20,8 @@ adding new line third time time to pull and update my my-joke branch
 
 Adding line to stash
 
+----- creating conflict from my-joke -------------
+----- creating conflict from my-joke -------------
+----- creating conflict from my-joke -------------
+----- creating conflict from my-joke -------------
+----- creating conflict from my-joke -------------
